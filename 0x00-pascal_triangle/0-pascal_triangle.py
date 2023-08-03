@@ -1,4 +1,4 @@
-from typing import List
+#!/usr/bin/python3
 def pascal_triangle(n: int) -> List[List[int]]:
     """
     Generate Pascal's triangle of n rows and return it as a list of lists.
